@@ -16,7 +16,7 @@
     "@angular/core": "^14.2.0",
     "@angular/forms": "^14.2.0",
     "@angular/platform-browser": "^14.2.0",
-    "@angular/platform-browser-dynamic": "^14.2.0",
+    "@angular/platform-browser-dynamic": "^19.2.1",
     "@angular/router": "^14.2.0",
     "@supabase/supabase-js": "^2.0.4",
     "rxjs": "~7.5.0",
