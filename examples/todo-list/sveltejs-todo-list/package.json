@@ -14,7 +14,7 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
     "@tsconfig/svelte": "^3.0.0",
-    "concurrently": "^7.3.0",
+    "concurrently": "^9.1.0",
     "svelte": "^3.49.0",
     "svelte-check": "^2.8.0",
     "svelte-hcaptcha": "^0.1.1",
